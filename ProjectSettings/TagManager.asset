@@ -4,18 +4,17 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Weapon
-  - Building
-  - Enemy
+  - Character
+  - Block
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Building
+  - Character
   - Water
   - UI
-  - Character
-  - TargetController
+  - 
+  - 
   - 
   - 
   - 
